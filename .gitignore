@@ -1,0 +1,23 @@
+# Environment & Credentials
+.env
+
+# Virtual Environments
+.venv/
+env/
+venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Local databases or temp vault files if tested locally
+crates.db
+*.spotdl
+temp_dl*/
